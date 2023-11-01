@@ -1,0 +1,448 @@
+# Este arquivo viminfo foi gerado pelo Vim 9.0.
+# Você pode editá-lo se for cuidadoso!
+
+# Viminfo version
+|1,4
+
+# Valor de 'encoding' quando este arquivo foi escrito
+*encoding=utf-8
+
+
+# hlsearch on (H) or off (h):
+~h
+# Último padrão de busca :
+~MSle0~/\<2\>
+
+# Última string de substituição:
+$
+
+# Histórico de linha de comando (mais recente primeiro):
+:wq
+|2,0,1698871603,,"wq"
+:WQ
+|2,0,1698866850,,"WQ"
+:q
+|2,0,1698866343,,"q"
+:set nu
+|2,0,1698179868,,"set nu"
+
+# Histórico de expressões de busca (mais recente primeiro):
+? @$
+|2,1,1698866843,,"@$"
+? \<2\>
+|2,1,1698785747,,"\\<2\\>"
+? \<include\>
+|2,1,1698180031,,"\\<include\\>"
+
+# Histórico de expressões (mais recente primeiro):
+
+# Histórico de linha de entrada (mais recente primeiro):
+@D
+|2,3,1698866830,,"D"
+@vetor
+|2,3,1698866308,,"vetor"
+
+# Histórico de linha de debug (mais recente primeiro):
+
+# Registradores:
+""0	CHAR	0
+	e
+|3,1,0,0,1,0,1698866843,"e"
+"1	LINE	0
+	
+|3,0,1,1,1,0,1698866264,""
+"2	LINE	0
+	               }
+|3,0,2,1,1,0,1698180117,"               }"
+"-	CHAR	0
+	[10]
+|3,0,36,0,1,0,1698870154,"[10]"
+
+# Marcas nos arquivos:
+'0  8  49  ~/vetores.c
+|4,48,8,49,1698871603,"~/vetores.c"
+'1  15  24  ~/vetores.c
+|4,49,15,24,1698871522,"~/vetores.c"
+'2  15  24  ~/vetores.c
+|4,50,15,24,1698871522,"~/vetores.c"
+'3  16  31  ~/vetores.c
+|4,51,16,31,1698871383,"~/vetores.c"
+'4  16  31  ~/vetores.c
+|4,52,16,31,1698871383,"~/vetores.c"
+'5  16  31  ~/vetores.c
+|4,53,16,31,1698871383,"~/vetores.c"
+'6  16  31  ~/vetores.c
+|4,54,16,31,1698871383,"~/vetores.c"
+'7  16  15  ~/vetores.c
+|4,55,16,15,1698871221,"~/vetores.c"
+'8  16  15  ~/vetores.c
+|4,56,16,15,1698871221,"~/vetores.c"
+'9  16  15  ~/vetores.c
+|4,57,16,15,1698871221,"~/vetores.c"
+
+# Lista de saltos (mais recente primeiro):
+-'  8  49  ~/vetores.c
+|4,39,8,49,1698871603,"~/vetores.c"
+-'  15  24  ~/vetores.c
+|4,39,15,24,1698871572,"~/vetores.c"
+-'  15  24  ~/vetores.c
+|4,39,15,24,1698871522,"~/vetores.c"
+-'  16  31  ~/vetores.c
+|4,39,16,31,1698871419,"~/vetores.c"
+-'  16  31  ~/vetores.c
+|4,39,16,31,1698871419,"~/vetores.c"
+-'  16  31  ~/vetores.c
+|4,39,16,31,1698871383,"~/vetores.c"
+-'  16  15  ~/vetores.c
+|4,39,16,15,1698871221,"~/vetores.c"
+-'  16  15  ~/vetores.c
+|4,39,16,15,1698871111,"~/vetores.c"
+-'  10  23  ~/vetores.c
+|4,39,10,23,1698870967,"~/vetores.c"
+-'  10  23  ~/vetores.c
+|4,39,10,23,1698870967,"~/vetores.c"
+-'  10  23  ~/vetores.c
+|4,39,10,23,1698870967,"~/vetores.c"
+-'  10  23  ~/vetores.c
+|4,39,10,23,1698870967,"~/vetores.c"
+-'  10  23  ~/vetores.c
+|4,39,10,23,1698870967,"~/vetores.c"
+-'  10  23  ~/vetores.c
+|4,39,10,23,1698870936,"~/vetores.c"
+-'  16  24  ~/vetores.c
+|4,39,16,24,1698870830,"~/vetores.c"
+-'  1  0  ~/vetores
+|4,39,1,0,1698870712,"~/vetores"
+-'  1  0  ~/vetores
+|4,39,1,0,1698870712,"~/vetores"
+-'  1  0  ~/vetores
+|4,39,1,0,1698870712,"~/vetores"
+-'  1  0  ~/vetores
+|4,39,1,0,1698870712,"~/vetores"
+-'  1  0  ~/vetores
+|4,39,1,0,1698870712,"~/vetores"
+-'  1  0  ~/vetores
+|4,39,1,0,1698870712,"~/vetores"
+-'  1  0  ~/vetores
+|4,39,1,0,1698870712,"~/vetores"
+-'  1  0  ~/vetores
+|4,39,1,0,1698870712,"~/vetores"
+-'  1  0  ~/vetores
+|4,39,1,0,1698870712,"~/vetores"
+-'  1  0  ~/vetores
+|4,39,1,0,1698870712,"~/vetores"
+-'  1  0  ~/vetores
+|4,39,1,0,1698870712,"~/vetores"
+-'  1  0  ~/vetores
+|4,39,1,0,1698870712,"~/vetores"
+-'  1  0  ~/vetores
+|4,39,1,0,1698870712,"~/vetores"
+-'  1  0  ~/vetores
+|4,39,1,0,1698870712,"~/vetores"
+-'  1  0  ~/vetores
+|4,39,1,0,1698870712,"~/vetores"
+-'  1  0  ~/vetores
+|4,39,1,0,1698870712,"~/vetores"
+-'  1  0  ~/vetores
+|4,39,1,0,1698870712,"~/vetores"
+-'  1  0  ~/vetores
+|4,39,1,0,1698870712,"~/vetores"
+-'  1  0  ~/vetores
+|4,39,1,0,1698870712,"~/vetores"
+-'  1  0  ~/vetores
+|4,39,1,0,1698870712,"~/vetores"
+-'  1  0  ~/vetores
+|4,39,1,0,1698870712,"~/vetores"
+-'  1  0  ~/vetores
+|4,39,1,0,1698870712,"~/vetores"
+-'  1  0  ~/vetores
+|4,39,1,0,1698870712,"~/vetores"
+-'  1  0  ~/vetores
+|4,39,1,0,1698870712,"~/vetores"
+-'  1  0  ~/vetores
+|4,39,1,0,1698870712,"~/vetores"
+-'  1  0  ~/vetores
+|4,39,1,0,1698870712,"~/vetores"
+-'  1  0  ~/vetores
+|4,39,1,0,1698870712,"~/vetores"
+-'  1  0  ~/vetores
+|4,39,1,0,1698870712,"~/vetores"
+-'  1  0  ~/vetores
+|4,39,1,0,1698870712,"~/vetores"
+-'  1  0  ~/vetores
+|4,39,1,0,1698870712,"~/vetores"
+-'  1  0  ~/vetores
+|4,39,1,0,1698870712,"~/vetores"
+-'  1  0  ~/vetores
+|4,39,1,0,1698870712,"~/vetores"
+-'  1  0  ~/vetores
+|4,39,1,0,1698870712,"~/vetores"
+-'  1  0  ~/vetores
+|4,39,1,0,1698870712,"~/vetores"
+-'  1  0  ~/vetores
+|4,39,1,0,1698870712,"~/vetores"
+-'  1  0  ~/vetores
+|4,39,1,0,1698870712,"~/vetores"
+-'  1  0  ~/vetores
+|4,39,1,0,1698870712,"~/vetores"
+-'  1  0  ~/vetores
+|4,39,1,0,1698870712,"~/vetores"
+-'  1  0  ~/vetores
+|4,39,1,0,1698870712,"~/vetores"
+-'  1  0  ~/vetores
+|4,39,1,0,1698870712,"~/vetores"
+-'  1  0  ~/vetores
+|4,39,1,0,1698870712,"~/vetores"
+-'  1  0  ~/vetores
+|4,39,1,0,1698870712,"~/vetores"
+-'  1  0  ~/vetores
+|4,39,1,0,1698870712,"~/vetores"
+-'  1  0  ~/vetores
+|4,39,1,0,1698870712,"~/vetores"
+-'  1  0  ~/vetores
+|4,39,1,0,1698870712,"~/vetores"
+-'  1  0  ~/vetores
+|4,39,1,0,1698870712,"~/vetores"
+-'  1  0  ~/vetores
+|4,39,1,0,1698870712,"~/vetores"
+-'  1  0  ~/vetores
+|4,39,1,0,1698870712,"~/vetores"
+-'  1  0  ~/vetores
+|4,39,1,0,1698870712,"~/vetores"
+-'  1  0  ~/vetores
+|4,39,1,0,1698870712,"~/vetores"
+-'  1  0  ~/vetores
+|4,39,1,0,1698870712,"~/vetores"
+-'  1  0  ~/vetores
+|4,39,1,0,1698870712,"~/vetores"
+-'  1  0  ~/vetores
+|4,39,1,0,1698870712,"~/vetores"
+-'  1  0  ~/vetores
+|4,39,1,0,1698870712,"~/vetores"
+-'  1  0  ~/vetores
+|4,39,1,0,1698870712,"~/vetores"
+-'  1  0  ~/vetores
+|4,39,1,0,1698870712,"~/vetores"
+-'  1  0  ~/vetores
+|4,39,1,0,1698870712,"~/vetores"
+-'  1  0  ~/vetores
+|4,39,1,0,1698870712,"~/vetores"
+-'  1  0  ~/vetores
+|4,39,1,0,1698870712,"~/vetores"
+-'  1  0  ~/vetores
+|4,39,1,0,1698870712,"~/vetores"
+-'  1  0  ~/vetores
+|4,39,1,0,1698870712,"~/vetores"
+-'  1  0  ~/vetores
+|4,39,1,0,1698870712,"~/vetores"
+-'  1  0  ~/vetores
+|4,39,1,0,1698870712,"~/vetores"
+-'  1  0  ~/vetores
+|4,39,1,0,1698870712,"~/vetores"
+-'  16  24  ~/vetores.c
+|4,39,16,24,1698870689,"~/vetores.c"
+-'  24  0  ~/vetores.c
+|4,39,24,0,1698870678,"~/vetores.c"
+-'  24  0  ~/vetores.c
+|4,39,24,0,1698870678,"~/vetores.c"
+-'  24  0  ~/vetores.c
+|4,39,24,0,1698870678,"~/vetores.c"
+-'  24  0  ~/vetores.c
+|4,39,24,0,1698870678,"~/vetores.c"
+-'  24  0  ~/vetores.c
+|4,39,24,0,1698870678,"~/vetores.c"
+-'  24  0  ~/vetores.c
+|4,39,24,0,1698870678,"~/vetores.c"
+-'  24  0  ~/vetores.c
+|4,39,24,0,1698870678,"~/vetores.c"
+-'  24  0  ~/vetores.c
+|4,39,24,0,1698870674,"~/vetores.c"
+-'  16  23  ~/vetores.c
+|4,39,16,23,1698870616,"~/vetores.c"
+-'  16  23  ~/vetores.c
+|4,39,16,23,1698870567,"~/vetores.c"
+-'  16  23  ~/vetores.c
+|4,39,16,23,1698870398,"~/vetores.c"
+-'  15  3  ~/vetores.c
+|4,39,15,3,1698870321,"~/vetores.c"
+-'  15  3  ~/vetores.c
+|4,39,15,3,1698870321,"~/vetores.c"
+-'  15  3  ~/vetores.c
+|4,39,15,3,1698870321,"~/vetores.c"
+-'  15  3  ~/vetores.c
+|4,39,15,3,1698870321,"~/vetores.c"
+-'  15  3  ~/vetores.c
+|4,39,15,3,1698870321,"~/vetores.c"
+-'  15  3  ~/vetores.c
+|4,39,15,3,1698870321,"~/vetores.c"
+-'  15  3  ~/vetores.c
+|4,39,15,3,1698870321,"~/vetores.c"
+-'  15  3  ~/vetores.c
+|4,39,15,3,1698870321,"~/vetores.c"
+-'  14  3  ~/vetores.c
+|4,39,14,3,1698870254,"~/vetores.c"
+
+# Histórico de marcas nos arquivos (mais recente primeiro):
+
+> ~/vetores.c
+	*	1698871600	0
+	"	8	49
+	^	15	25
+	.	15	18
+	+	1	12
+	+	23	0
+	+	7	25
+	+	10	21
+	+	14	6
+	+	8	50
+	+	16	21
+	+	20	0
+	+	7	5
+	+	15	5
+	+	8	52
+	+	14	23
+	+	16	23
+	+	10	21
+	+	15	3
+	+	7	3
+	+	5	15
+	+	6	10
+	+	5	15
+	+	6	6
+	+	7	3
+	+	15	18
+	+	11	12
+	+	17	0
+	+	16	24
+	+	15	16
+	+	7	16
+	+	11	0
+	+	9	18
+	+	8	0
+	+	16	32
+	+	9	6
+	+	15	6
+	+	9	13
+	+	15	18
+
+> ~/vetores
+	*	1698869410	0
+	"	1	0
+	^	18	9
+	.	19	0
+	+	2	19
+	+	7	25
+	+	9	21
+	+	19	0
+	+	8	54
+	+	9	21
+	+	5	13
+	+	7	21
+	+	14	4
+	+	7	22
+	+	13	6
+	+	12	0
+	+	14	3
+	+	8	0
+	+	7	22
+	+	14	25
+	+	18	7
+	+	10	0
+	+	18	8
+	+	18	10
+	+	18	9
+	+	19	0
+
+> ~/vetor.c/vetor
+	*	1698786020	0
+	"	1	0
+
+> ~/vetor
+	*	1698785852	0
+	"	6	24
+	^	6	25
+	.	5	16
+	+	6	25
+	+	9	5
+	+	6	25
+	+	1	4
+	+	5	11
+	+	1	14
+	+	2	1
+	+	1	22
+	+	2	0
+	+	2	1
+	+	1	0
+	+	2	18
+	+	5	16
+
+> ~/Calculadora-no-prompt/Calculadora-no-prompt.c
+	*	1698181142	0
+	"	18	20
+	^	18	21
+	.	18	21
+	+	2	12
+	+	2	22
+	+	2	8
+	+	30	0
+	+	2	24
+	+	5	27
+	+	29	0
+	+	1	0
+	+	2	13
+	+	28	0
+	+	5	27
+	+	24	0
+	+	23	10
+	+	21	0
+	+	9	4
+	+	8	13
+	+	10	28
+	+	15	28
+	+	20	27
+	+	2	10
+	+	21	0
+	+	4	22
+	+	4	26
+	+	2	8
+	+	4	35
+	+	9	32
+	+	9	15
+	+	14	27
+	+	5	27
+	+	7	29
+	+	5	27
+	+	9	15
+	+	12	33
+	+	10	28
+	+	14	15
+	+	15	0
+	+	18	0
+	+	17	27
+	+	14	15
+	+	15	28
+	+	18	21
+
+> ~/Calculadora-no-prompt/programa.c
+	*	1698180795	0
+	"	42	1
+	^	42	2
+	.	41	17
+	+	3	19
+	+	3	0
+	+	2	18
+	+	3	10
+	+	45	1
+	+	3	30
+	+	43	2
+	+	40	19
+	+	39	0
+	+	41	17
+
+> ~/Calculadora-no-prompt/funcao.h
+	*	1698180268	0
+	"	1	0
+
+> ~/Calculadora-no-prompt/Calculadora-no-prompt
+	*	1698179638	0
+	"	1	0
